@@ -1,0 +1,9 @@
+Rezervare locuri:
+O institutie gazduieste show-uri de stand up comedy si pune la dispozitia utilizatorilor un sistem de
+rezervare a locurilor.Institutia are o singura reprezentatie unde utilizatorii isi pot cumpara bilete.
+Achizitia se va face de pe mai multe terminale,fiecare afisand locurile disponibile din sala,un utilizator
+isi poate alege unul sau mai multe locuri libere,dupa care isi introduce datele personale.Pentru un loc
+sunt memorate locul(coordnatele x si y),pretul,numarul si tipul.Tipul poate fi standard sau premium.In cazul
+in care un utilizator alege un loc premium,el va avea optiunea de a comanda mancare sau bauturi inaintea spectacolului.
+Astfel,in terminal va aparea o fereastra noua care ii permite sa comande,care contine toate produsele disponibile.
+Un produs memoraza numele,ingredientele si pretul. 
