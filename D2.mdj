@@ -2163,9 +2163,9 @@
 										"$ref": "AAAAAAF4i/czGQ9Tk4Q="
 									},
 									"font": "Arial;13;0",
-									"left": 2969,
+									"left": 2966,
 									"top": 3262,
-									"width": 66.8408203125,
+									"width": 73.3408203125,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -2173,7 +2173,7 @@
 										"$ref": "AAAAAAF4i/czGQ9W7pM="
 									},
 									"edgePosition": 2,
-									"text": "+moderator"
+									"text": "+moderators"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2228,16 +2228,16 @@
 										"$ref": "AAAAAAF4i/czGQ9UbY4="
 									},
 									"font": "Arial;13;0",
-									"left": 2979,
+									"left": 2976,
 									"top": 3116,
-									"width": 48.064453125,
+									"width": 54.564453125,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
 									"hostEdge": {
 										"$ref": "AAAAAAF4i/czGQ9W7pM="
 									},
-									"text": "+theatre"
+									"text": "+theatres"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2649,9 +2649,9 @@
 										"$ref": "AAAAAAF4i/rSXhbdU9w="
 									},
 									"font": "Arial;13;0",
-									"left": 3190,
+									"left": 3187,
 									"top": 3080,
-									"width": 48.064453125,
+									"width": 54.564453125,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -2659,7 +2659,7 @@
 										"$ref": "AAAAAAF4i/rSXxbgyLo="
 									},
 									"edgePosition": 2,
-									"text": "+theatre"
+									"text": "+theatres"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2714,16 +2714,16 @@
 										"$ref": "AAAAAAF4i/rSXhbeDQ0="
 									},
 									"font": "Arial;13;0",
-									"left": 3517,
+									"left": 3514,
 									"top": 3299,
-									"width": 57.45263671875,
+									"width": 63.95263671875,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
 									"hostEdge": {
 										"$ref": "AAAAAAF4i/rSXxbgyLo="
 									},
-									"text": "+fooditem"
+									"text": "+fooditems"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2923,9 +2923,9 @@
 										"$ref": "AAAAAAF4i/sFwBdmrBU="
 									},
 									"font": "Arial;13;0",
-									"left": 2982,
+									"left": 2979,
 									"top": 2822,
-									"width": 48.064453125,
+									"width": 54.564453125,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 30,
@@ -2933,7 +2933,7 @@
 										"$ref": "AAAAAAF4i/sFwBdplok="
 									},
 									"edgePosition": 2,
-									"text": "+theatre"
+									"text": "+theatres"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2988,16 +2988,16 @@
 										"$ref": "AAAAAAF4i/sFwBdnf68="
 									},
 									"font": "Arial;13;0",
-									"left": 2988,
+									"left": 2982,
 									"top": 2748,
-									"width": 38.66357421875,
+									"width": 50.93994140625,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
 									"hostEdge": {
 										"$ref": "AAAAAAF4i/sFwBdplok="
 									},
-									"text": "+show"
+									"text": "+showss"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3262,16 +3262,16 @@
 										"$ref": "AAAAAAF4i/siXBgF+hc="
 									},
 									"font": "Arial;13;0",
-									"left": 3508,
+									"left": 3504,
 									"top": 2633,
-									"width": 37.93359375,
+									"width": 44.43359375,
 									"height": 13,
 									"alpha": -0.5235987755982988,
 									"distance": 30,
 									"hostEdge": {
 										"$ref": "AAAAAAF4i/siXRgHjps="
 									},
-									"text": "+ticket"
+									"text": "+tickets"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -3708,7 +3708,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/czGQ9S8rQ="
 								},
-								"name": "moderator",
+								"name": "moderators",
 								"reference": {
 									"$ref": "AAAAAAF4i+adt/7wmV8="
 								},
@@ -3720,7 +3720,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/czGQ9S8rQ="
 								},
-								"name": "theatre",
+								"name": "theatres",
 								"reference": {
 									"$ref": "AAAAAAF4i/aqOg7GZTQ="
 								},
@@ -3772,7 +3772,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/rSXhbcJmE="
 								},
-								"name": "theatre",
+								"name": "theatres",
 								"reference": {
 									"$ref": "AAAAAAF4i/aqOg7GZTQ="
 								},
@@ -3784,7 +3784,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/rSXhbcJmE="
 								},
-								"name": "fooditem",
+								"name": "fooditems",
 								"reference": {
 									"$ref": "AAAAAAF4i+aB6P6u96Y="
 								},
@@ -3804,7 +3804,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/sFvxdlfn4="
 								},
-								"name": "theatre",
+								"name": "theatres",
 								"reference": {
 									"$ref": "AAAAAAF4i/aqOg7GZTQ="
 								},
@@ -3816,7 +3816,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/sFvxdlfn4="
 								},
-								"name": "show",
+								"name": "showss",
 								"reference": {
 									"$ref": "AAAAAAF4i/pHzxXNLwA="
 								},
@@ -3890,7 +3890,7 @@
 								"_parent": {
 									"$ref": "AAAAAAF4i/siXBgDjE0="
 								},
-								"name": "ticket",
+								"name": "tickets",
 								"reference": {
 									"$ref": "AAAAAAF4i+ZY2/6EMSk="
 								},
