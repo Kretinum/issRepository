@@ -1,0 +1,15 @@
+org/hibernate/dialect/identity/SQLiteDialectIdentityColumnSupport.java
+ org.hibernate.dialect.identity.SQLiteDialectIdentityColumnSupport
+org/hibernate/dialect/SQLiteDialect.java
+ org.hibernate.dialect.SQLiteDialect
+ org.hibernate.dialect.SQLiteDialect$1
+ org.hibernate.dialect.SQLiteDialect$2
+ org.hibernate.dialect.SQLiteDialect$3
+ org.hibernate.dialect.SQLiteDialect$4
+ org.hibernate.dialect.SQLiteDialect$SQLiteUniqueDelegate
+HiberPack/HModerator.java
+ HiberPack.HModerator
+Persistance/Repository.java
+ Persistance.Repository
+Persistance/ModeratorRepo.java
+ Persistance.ModeratorRepo
